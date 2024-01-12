@@ -1,0 +1,7 @@
+{"equations":
+[{"result":7,"expression":"4+3"},
+  {"result":0,"expression":"1-1"},
+  {"result":20,"expression":"4*5"},
+  {"result":15,"expression":"20/2+5"},
+  {"result":2,"expression":"20/(2*5)"},
+  {"result":4,"expression":"(2/2-1+2)*2"}]}
